@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 📍 Based in **Pittsburgh, PA**; often in Seattle and New York (and always looking for an excuse to visit)!
 
----
 
 ## 🔬 Featured Projects:
 
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 
 - **🚂 [RAIL • LSSTDESC/rail](https://github.com/LSSTDESC/rail):** A modular, extensible framework for photometric redshift estimation and uncertainty quantification in large-scale surveys. I've contributed to its architecture and integration within the LSST DESC ecosystem.
 
----
 
 ## 🌱 Currently Learning About:
 
@@ -42,7 +40,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 **Sociological implications of the Internet.** At the time of writing this, I'm finally reading my copy of *Hooked*, and I'm also working on learning more about dead Internet theory. Let me know if you have any recommendatoins for materials on how people are incentivized to stay addicted to the Internet, how both algorithms and bot farms are designed to affect peoples' beliefs at a large scale, and anything related to these topics!
 
----
 
 ## 📫 Let's Connect
 GitHub: **[@OliviaLynn](https://github.com/OliviaLynn)** | LinkedIn: **[Olivia Lynn](https://www.linkedin.com/in/olivia-r-lynn/)** | Email: **olynn** at **andrew** dot **cmu** dot **edu**
