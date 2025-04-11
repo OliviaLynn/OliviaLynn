@@ -45,9 +45,5 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Let's Connect
-
-- GitHub: [@OliviaLynn](https://github.com/OliviaLynn)
-- LinkedIn: [Olivia Lynn](https://www.linkedin.com/in/olivia-r-lynn/)
-- Email: **olynn** at **andrew** dot **cmu** dot **edu**
----
+GitHub: **[@OliviaLynn](https://github.com/OliviaLynn)** | LinkedIn: **[Olivia Lynn](https://www.linkedin.com/in/olivia-r-lynn/)** | Email: **olynn** at **andrew** dot **cmu** dot **edu**
 
