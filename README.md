@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - **🌠 [TDAstro • lincc-frameworks/tdastro](https://github.com/lincc-frameworks/tdastro):** A fast, modular Python library for simulating and analyzing variable sources in time-domain astronomy. I contribute to core API design and functionality, supporting its use in scientific pipelines and large-scale simulations.
 
-- **🚂 [RAIL • LSSTDESC/rail ](https://github.com/LSSTDESC/rail):** A modular, extensible framework for photometric redshift estimation and uncertainty quantification in large-scale surveys. I've contributed to its architecture and integration within the LSST DESC ecosystem.
+- **🚂 [RAIL • LSSTDESC/rail](https://github.com/LSSTDESC/rail):** A modular, extensible framework for photometric redshift estimation and uncertainty quantification in large-scale surveys. I've contributed to its architecture and integration within the LSST DESC ecosystem.
 
 ---
 
